@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(229, 247, 247);
+}
+
+.container {
+  width: 50%;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 0 8px grey;
+}
+
+h1 {
+  text-align: center;
+}
